@@ -1,0 +1,37 @@
+{
+  "name": "cossac",
+  "version": "1.0.0",
+  "description": "The open-sourse Discord bot, ukrainian-lang-only.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "RomaPlayWorld#9266",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "better-sqlite3": "^7.6.2",
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.2.10",
+    "quick.db": "^9.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaDevWorld/cossac.git"
+  },
+  "keywords": [
+    "ukraine",
+    "discord",
+    "bot",
+    "ukr"
+  ],
+  "bugs": {
+    "url": "https://github.com/RomaDevWorld/cossac/issues"
+  },
+  "homepage": "https://github.com/RomaDevWorld/cossac#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "sw_bans": ["banAdd", "banRemove"],
+    "sw_msgs": ["msgUpdate", "msgDelete"],
+    "sw_members": ["memAdd", "memRemove", "memUpdate"],
+    "sw_voices": ["voiceL", "voiceJ", "voiceM"],
+    "sw_invites": ["invCreate", "invDelete", "invJoin"]
+}
